@@ -1,6 +1,7 @@
 README for grim-repo configuration
 
 01172015-2210
+
 EDITED01 01182015-1845 on local repo on foo;  appears up in grim-repo?
 
 EDITED02 01192015-0955 on local repo on foo again;  check if up on grim-repo
