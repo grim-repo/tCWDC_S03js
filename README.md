@@ -2,6 +2,8 @@ README for grim-repo configuration
 
 01172015-2210
 
+EDITED 01182015-1845 on local repo on foo;  appears up in grim-repo?
+
 NB there are two files in the parallel folder (the ground up version from STEP_A)
 
 This is from the github.com STEP_B thread
@@ -12,3 +14,6 @@ another edit;  late test 01182015-2830 added line;
 how will this be reflected in grim-repo?
 
 and where is otherTest.txt?
+
+NB otherTest.txt and test.md were on the bottom-up thread (STEP_A);
+this README.md is from the grim-repo github07 top-down thread (STEP_B);
