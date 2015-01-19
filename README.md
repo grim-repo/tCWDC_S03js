@@ -1,8 +1,8 @@
 README for grim-repo configuration
 
 01172015-2210
-
-EDITED 01182015-1845 on local repo on foo;  appears up in grim-repo?
+EDITED01 01182015-1845 on local repo on foo;  appears up in grim-repo?
+EDITED02 01192015-0955 on local repo on foo again;  check if up on grim-repo
 
 NB there are two files in the parallel folder (the ground up version from STEP_A)
 
@@ -17,3 +17,5 @@ and where is otherTest.txt?
 
 NB otherTest.txt and test.md were on the bottom-up thread (STEP_A);
 this README.md is from the grim-repo github07 top-down thread (STEP_B);
+
+monday a.m. test - practicing update, then git push origin master
