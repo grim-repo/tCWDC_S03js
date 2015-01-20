@@ -1,5 +1,7 @@
 4th file - the Deleter - 01192015-2020
 
+01202015-1000 tuesday a.m. edit for practice
+
 3rd in directory;  will delete and try to recover
 
 L14 Other Basic Operations
