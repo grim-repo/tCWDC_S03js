@@ -1,6 +1,8 @@
 mysterious q file 01192015-2025 tried to :wq, saved log file as q
 
+to repro:  git log, went longer than the screen;  scrolled down sorta
 
+realized it was like vi;  tried to :wq;  exited and saved as q
 
 
 [33mcommit 58089da24bad47ee4777890d8774a3d408eb6c90[m
