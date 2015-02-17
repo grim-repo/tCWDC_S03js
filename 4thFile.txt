@@ -1,15 +1,18 @@
 4th file - the Deleter - 01192015-2020
 
+02162015-1633 practice edit
+NB RMVD a line - to check the split screen feature
+
 020152015-0950 edited again
 
 02012015-1039 another edit
 
 01292015-0950 thurs jan 29 edit
 
-01262015-1930 another edit - why can't push from Wanderer?
+01262015-1930 - why can't push from Wanderer?
 
 01202015-1000 tuesday a.m. edit for practice
 
-3rd in directory;  will delete and try to recover
+3rd in directory; maybe delete and try to recover
 
 L14 Other Basic Operations
