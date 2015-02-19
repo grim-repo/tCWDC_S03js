@@ -1,5 +1,7 @@
 README for grim-repo configuration
 
+02192015-0818 practice edit
+
 02172015-1009 practice edit
 02112015-0917;  removed word 'edited' from front (for practice).
 
