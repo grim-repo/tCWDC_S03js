@@ -1,6 +1,7 @@
 4th file - the Deleter - 01192015-2020
 
-02192015-0820 practice edit 
+03032015-1055 edit
+02192015-0820 practice edit
 02162015-1633 practice edit
 NB RMVD a line - to check the split screen feature
 
@@ -12,7 +13,7 @@ NB RMVD a line - to check the split screen feature
 
 01262015-1930 - why can't push from Wanderer?
 
-01202015-1000 tuesday a.m. edit for practice
+01202015-1000 tuesday a.m.   <word "edit" deleted> for practice
 
 3rd in directory; maybe delete and try to recover
 
