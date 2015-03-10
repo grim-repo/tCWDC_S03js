@@ -1,6 +1,6 @@
 02052015-0951 note:  interesting file - was gen'd by accident with clipboard
 
-
+edit 03102015-1122 practice
 mysterious q file 01192015-2025 tried to :wq, saved log file as q
 
 to repro:  git log, went longer than the screen;  scrolled down sorta
